@@ -14,6 +14,8 @@ I would like an intel CPU because I think that would be more compatible with lin
 
 ## HSF
 
+If I am going to overclock I will probably want to buy a HSF that can support the max power output of the maxed overclocking of my CPU if I can afford it. I should probably priortize my wants/needs at some point....
+
 ## Motherboard
 
 ## RAM
