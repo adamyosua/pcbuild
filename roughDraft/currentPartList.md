@@ -19,12 +19,6 @@ I would like an intel CPU because I think that would be more compatible with lin
 
 
 
-
-
-
-
-
-
 #### Reference Materials
 
 - [List of Intel Microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
@@ -34,8 +28,6 @@ I would like an intel CPU because I think that would be more compatible with lin
 If I am going to overclock I will probably want to buy a HSF that can support the max power output of the maxed overclocking of my CPU if I can afford it. I should probably prioritize my wants/needs at some point....
 
 EDIT: I think for now I am going to stick with the one they recommend. If I decide to overclock I can always change it.
-
-
 
 | Fan                                                          | Socket Support | Cost  |
 | ------------------------------------------------------------ | -------------- | ----- |
@@ -50,6 +42,15 @@ EDIT: I think for now I am going to stick with the one they recommend. If I deci
 ## Disk
 
 ## PSU
+
+| Power Supply                                                 | Power Rating | Cost   |
+| ------------------------------------------------------------ | ------------ | ------ |
+| [EVGA](https://www.amazon.com/EVGA-Modular-Warranty-Supply-210-GQ-0650-V1/dp/B017HA3SQ8/?tag=li-org-main-20) | 650          | $91.19 |
+| [Seasonic jawn](https://pcpartpicker.com/product/fZyFf7)     | 520          | $85    |
+| [Cosair CXM](https://pcpartpicker.com/product/CVkD4D/corsair-power-supply-cx750m) | 750          | $100   |
+| [Seasonic PK 650](https://www.amazon.com/Seasonic-PX-650-Full-Modular-Application-SSR-650PX/dp/B07W7YD7D1/?tag=li-org-main-20) | 650          | $123   |
+
+
 
 ## Case
 
