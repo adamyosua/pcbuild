@@ -33,7 +33,8 @@ EDIT: I think for now I am going to stick with the one they recommend. If I deci
 | ------------------------------------------------------------ | -------------- | ----- |
 | [Gammax 400](https://www.amazon.com/DEEPCOOL-GAMMAXX-400-Blue-Compatible/dp/B00JQ2YDCY/ref=sr_1_1?keywords=gammax+400&qid=1579138055&s=electronics&sr=1-1) | LGA1151x       | 19.79 |
 
-
+## Mice
+[Redragon M601](https://www.amazon.com/Redragon-Gaming-Ergonomic-Backlit-Windows/dp/B00HTK1NCS/ref=sr_1_4?crid=18BIJ60OVODR&dchild=1&keywords=mouse+redragon+m601&qid=1602644798&smid=AXZ7TDMJNMJSZ&sprefix=mouse+red%2Caps%2C195&sr=8-4)
 
 ## Motherboard
 
